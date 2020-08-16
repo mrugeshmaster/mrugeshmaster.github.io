@@ -1,6 +1,6 @@
 ---
 title: "My Journey"
-published: true
+published: false
 ---
 
 I am a SJSU Spring 2020 Graduate Student pursuing Software Engineering with **3.57 GPA**.
