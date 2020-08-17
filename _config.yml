@@ -1,6 +1,5 @@
-#layout: stacked
 #style: dark
-theme: jekyll-theme-minimal
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
